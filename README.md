@@ -1,6 +1,6 @@
-# BabylonJS ES6 µWebSockets.js starter
+# BabylonJS Typescript µWebSockets.js starter
 
-BabylonJS ES6 Webpack µWebSockets.js starter.
+BabylonJS Typescript Webpack µWebSockets.js starter.
 
 # Commands
 
